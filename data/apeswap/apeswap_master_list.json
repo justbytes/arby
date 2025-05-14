@@ -1,0 +1,156 @@
+{
+  "dex": "apeswap",
+  "address": {
+    "v2": {
+      "factory": "0xCf083Be4164828f00cAE704EC15a36D711491284",
+      "router": "0xC0788A3aD43d79aa53B09c2EaCc313A787d1d607"
+    }
+  },
+  "pairs": [
+    {
+      "v3": false,
+      "id": "0x6cf8654e85ab489ca7e70189046d507eba233613",
+      "reserve0": "162154.7616629105009475",
+      "reserve1": "25.266646808368619629",
+      "token0": {
+        "decimals": "18",
+        "id": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+        "name": "Wrapped Matic",
+        "symbol": "WMATIC",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.5057004723669269011565401353165243"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "tokenDayData": [
+          {
+            "priceUSD": "3240.462120238815119744654624587388"
+          }
+        ]
+      },
+      "volumeUSD": "852190077.2362899911981252619680672"
+    },
+    {
+      "v3": false,
+      "id": "0xd32f3139a214034a0f9777c87ee0a064c1ff6ae2",
+      "reserve0": "65515.003130513270043781",
+      "reserve1": "33126.835568297032648029",
+      "token0": {
+        "decimals": "18",
+        "id": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+        "name": "Wrapped Matic",
+        "symbol": "WMATIC",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.5057004723669269011565401353165243"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+        "name": "(PoS) Dai Stablecoin",
+        "symbol": "DAI",
+        "tokenDayData": [
+          {
+            "priceUSD": "1.000124746654889594478562417949487"
+          }
+        ]
+      },
+      "volumeUSD": "434380334.3376898447605869604227966"
+    },
+    {
+      "v3": false,
+      "id": "0x65d43b64e3b31965cd5ea367d4c2b94c03084797",
+      "reserve0": "72607.934272274068561245",
+      "reserve1": "36721.999121",
+      "token0": {
+        "decimals": "18",
+        "id": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+        "name": "Wrapped Matic",
+        "symbol": "WMATIC",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.5057004723669269011565401353165243"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "6",
+        "id": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+        "name": "(PoS) Tether USD",
+        "symbol": "USDT",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.9998874663138407547669312919679444"
+          }
+        ]
+      },
+      "volumeUSD": "415163690.8217196115474391803206744"
+    },
+    {
+      "v3": false,
+      "id": "0xe82635a105c520fd58e597181cbf754961d51e3e",
+      "reserve0": "55249.20748330304262245",
+      "reserve1": "0.41746962",
+      "token0": {
+        "decimals": "18",
+        "id": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+        "name": "Wrapped Matic",
+        "symbol": "WMATIC",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.5057004723669269011565401353165243"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "8",
+        "id": "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6",
+        "name": "(PoS) Wrapped BTC",
+        "symbol": "WBTC",
+        "tokenDayData": [
+          {
+            "priceUSD": "66925.94858089242821169165767150547"
+          }
+        ]
+      },
+      "volumeUSD": "176606241.1498409500825998318234158"
+    },
+    {
+      "v3": false,
+      "id": "0x5b13b583d4317ab15186ed660a1e4c65c10da659",
+      "reserve0": "54576.005186",
+      "reserve1": "54571.545926894787853199",
+      "token0": {
+        "decimals": "6",
+        "id": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+        "name": "USD Coin (PoS)",
+        "symbol": "USDC",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.9999948581184518319575759140311661"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+        "name": "(PoS) Dai Stablecoin",
+        "symbol": "DAI",
+        "tokenDayData": [
+          {
+            "priceUSD": "1.000124746654889594478562417949487"
+          }
+        ]
+      },
+      "volumeUSD": "93239710.69643282166382941005373044"
+    }
+  ]
+}

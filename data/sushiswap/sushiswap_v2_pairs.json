@@ -1,0 +1,2804 @@
+{
+  "pairs": [
+    {
+      "id": "0x34965ba0ac2451a34a0471f04cca3f990b8dea27",
+      "reserve0": "331962.738675",
+      "reserve1": "100.744481354265733907",
+      "token0": {
+        "decimals": "6",
+        "id": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+        "name": "USD Coin (PoS)",
+        "symbol": "USDC",
+        "tokenDayData": [
+          {
+            "priceUSD": "1.000046533749715897926937904699398"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "tokenDayData": [
+          {
+            "priceUSD": "3293.802176029499260419916565128127"
+          }
+        ]
+      },
+      "volumeUSD": "4063209960.75846509774475178126526"
+    },
+    {
+      "id": "0xc4e595acdd7d12fec385e5da5d43160e8a0bac0e",
+      "reserve0": "3060045.458752734643034631",
+      "reserve1": "474.368923281984140362",
+      "token0": {
+        "decimals": "18",
+        "id": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+        "name": "Wrapped Matic",
+        "symbol": "WMATIC",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.5106059412541639355618817226741645"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "tokenDayData": [
+          {
+            "priceUSD": "3293.802176029499260419916565128127"
+          }
+        ]
+      },
+      "volumeUSD": "2641014121.416498863504574044694518"
+    },
+    {
+      "id": "0xcd353f79d9fade311fc3119b841e1f456b54e858",
+      "reserve0": "242170.461960889755119327",
+      "reserve1": "123647.922872",
+      "token0": {
+        "decimals": "18",
+        "id": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+        "name": "Wrapped Matic",
+        "symbol": "WMATIC",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.5106059412541639355618817226741645"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "6",
+        "id": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+        "name": "USD Coin (PoS)",
+        "symbol": "USDC",
+        "tokenDayData": [
+          {
+            "priceUSD": "1.000046533749715897926937904699398"
+          }
+        ]
+      },
+      "volumeUSD": "2018707920.302316183794705341793873"
+    },
+    {
+      "id": "0x1e67124681b402064cd0abe8ed1b5c79d2e02f64",
+      "reserve0": "24277.187688",
+      "reserve1": "40704.808976550573872461",
+      "token0": {
+        "decimals": "6",
+        "id": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+        "name": "USD Coin (PoS)",
+        "symbol": "USDC",
+        "tokenDayData": [
+          {
+            "priceUSD": "1.000046533749715897926937904699398"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0x2f800db0fdb5223b3c3f354886d907a671414a7f",
+        "name": "Toucan Protocol: Base Carbon Tonne",
+        "symbol": "BCT",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.5963968917760915661681712772783228"
+          }
+        ]
+      },
+      "volumeUSD": "1895934918.943652083281285169506106"
+    },
+    {
+      "id": "0x9803c7ae526049210a1725f7487af26fe2c24614",
+      "reserve0": "625841.632849608294776706",
+      "reserve1": "113222.48528222",
+      "token0": {
+        "decimals": "18",
+        "id": "0x2f800db0fdb5223b3c3f354886d907a671414a7f",
+        "name": "Toucan Protocol: Base Carbon Tonne",
+        "symbol": "BCT",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.5963968917760915661681712772783228"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "9",
+        "id": "0x4e78011ce80ee02d2c3e649fb657e45898257815",
+        "name": "Klima DAO",
+        "symbol": "KLIMA",
+        "tokenDayData": [
+          {
+            "priceUSD": "3.304236809618273540553572719929932"
+          }
+        ]
+      },
+      "volumeUSD": "1666801532.787662885636050298520077"
+    },
+    {
+      "id": "0xc2755915a85c6f6c1c0f3a86ac8c058f11caa9c9",
+      "reserve0": "23.696918125845230106",
+      "reserve1": "78114.931359",
+      "token0": {
+        "decimals": "18",
+        "id": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "tokenDayData": [
+          {
+            "priceUSD": "3293.802176029499260419916565128127"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "6",
+        "id": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+        "name": "(PoS) Tether USD",
+        "symbol": "USDT",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.9995734864418868727691390430524514"
+          }
+        ]
+      },
+      "volumeUSD": "1463804043.292546243914052154210163"
+    },
+    {
+      "id": "0x85de135ff062df790a5f20b79120f17d3da63b2d",
+      "reserve0": "1003.647449",
+      "reserve1": "5567944.930937492142175622",
+      "token0": {
+        "decimals": "6",
+        "id": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+        "name": "USD Coin (PoS)",
+        "symbol": "USDC",
+        "tokenDayData": [
+          {
+            "priceUSD": "1.000046533749715897926937904699398"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0xd86b5923f3ad7b585ed81b448170ae026c65ae9a",
+        "name": "IRON Stablecoin",
+        "symbol": "IRON",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.0001802607659062733679870336556025052"
+          }
+        ]
+      },
+      "volumeUSD": "1437042203.974727348626051598152448"
+    },
+    {
+      "id": "0xa79983daf2a92c2c902cd74217efe3d8af9fba2a",
+      "reserve0": "2165.2456586330558149",
+      "reserve1": "49675079533.840430787718259638",
+      "token0": {
+        "decimals": "18",
+        "id": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+        "name": "Wrapped Matic",
+        "symbol": "WMATIC",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.5106059412541639355618817226741645"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0xaaa5b9e6c589642f98a1cda99b9d024b8407285a",
+        "name": "IRON Titanium Token",
+        "symbol": "TITAN",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.0000000225876719463767147079686546321941"
+          }
+        ]
+      },
+      "volumeUSD": "1070911584.348867922484751421394243"
+    },
+    {
+      "id": "0x6ff62bfb8c12109e8000935a6de54dad83a4f39f",
+      "reserve0": "64.540278374433390177",
+      "reserve1": "212772.683044992359550847",
+      "token0": {
+        "decimals": "18",
+        "id": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "tokenDayData": [
+          {
+            "priceUSD": "3293.802176029499260419916565128127"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+        "name": "(PoS) Dai Stablecoin",
+        "symbol": "DAI",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.9994132372592596422439121670995368"
+          }
+        ]
+      },
+      "volumeUSD": "932457409.4201382304292074548734159"
+    },
+    {
+      "id": "0xe62ec2e799305e0d367b0cc3ee2cda135bf89816",
+      "reserve0": "4.6401368",
+      "reserve1": "93.106564118452054784",
+      "token0": {
+        "decimals": "8",
+        "id": "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6",
+        "name": "(PoS) Wrapped BTC",
+        "symbol": "WBTC",
+        "tokenDayData": [
+          {
+            "priceUSD": "65925.36879973936553613146052740199"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "tokenDayData": [
+          {
+            "priceUSD": "3293.802176029499260419916565128127"
+          }
+        ]
+      },
+      "volumeUSD": "926322674.4284982042802183460855149"
+    },
+    {
+      "id": "0x2813d43463c374a680f235c428fb1d7f08de0b69",
+      "reserve0": "60.306097679956562255",
+      "reserve1": "1926.012046286283202738",
+      "token0": {
+        "decimals": "18",
+        "id": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "tokenDayData": [
+          {
+            "priceUSD": "3293.802176029499260419916565128127"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0xd6df932a45c0f255f85145f286ea0b292b21c90b",
+        "name": "Aave (PoS)",
+        "symbol": "AAVE",
+        "tokenDayData": [
+          {
+            "priceUSD": "103.6600518380148179420892329077694"
+          }
+        ]
+      },
+      "volumeUSD": "472465713.5473402647594852044125277"
+    },
+    {
+      "id": "0x3324af8417844e70b81555a6d1568d78f4d4bf1f",
+      "reserve0": "7562.349915",
+      "reserve1": "11981367.506632407195728357",
+      "token0": {
+        "decimals": "6",
+        "id": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+        "name": "USD Coin (PoS)",
+        "symbol": "USDC",
+        "tokenDayData": [
+          {
+            "priceUSD": "1.000046533749715897926937904699398"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0xaa9654becca45b5bdfa5ac646c939c62b527d394",
+        "name": "DinoSwap (PoS)",
+        "symbol": "DINO",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.0006312437056684034510831035329824137"
+          }
+        ]
+      },
+      "volumeUSD": "326858245.0620514752109488537905799"
+    },
+    {
+      "id": "0x4b1f1e2435a9c96f7330faea190ef6a7c8d70001",
+      "reserve0": "186663.518925",
+      "reserve1": "186995.787353",
+      "token0": {
+        "decimals": "6",
+        "id": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+        "name": "USD Coin (PoS)",
+        "symbol": "USDC",
+        "tokenDayData": [
+          {
+            "priceUSD": "1.000046533749715897926937904699398"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "6",
+        "id": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+        "name": "(PoS) Tether USD",
+        "symbol": "USDT",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.9995734864418868727691390430524514"
+          }
+        ]
+      },
+      "volumeUSD": "317776517.6599966770550188332142176"
+    },
+    {
+      "id": "0x5786b267d35f9d011c4750e0b0ba584e1fdbead1",
+      "reserve0": "320972.138206",
+      "reserve1": "97144.089002127",
+      "token0": {
+        "decimals": "6",
+        "id": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+        "name": "USD Coin (PoS)",
+        "symbol": "USDC",
+        "tokenDayData": [
+          {
+            "priceUSD": "1.000046533749715897926937904699398"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "9",
+        "id": "0x4e78011ce80ee02d2c3e649fb657e45898257815",
+        "name": "Klima DAO",
+        "symbol": "KLIMA",
+        "tokenDayData": [
+          {
+            "priceUSD": "3.304236809618273540553572719929932"
+          }
+        ]
+      },
+      "volumeUSD": "283033346.6751239210670557300324938"
+    },
+    {
+      "id": "0x74d23f21f780ca26b47db16b0504f2e3832b9321",
+      "reserve0": "5484.828382955890366162",
+      "reserve1": "22.556332656795419122",
+      "token0": {
+        "decimals": "18",
+        "id": "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39",
+        "name": "ChainLink Token",
+        "symbol": "LINK",
+        "tokenDayData": [
+          {
+            "priceUSD": "13.71171708963400479001868677585056"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "tokenDayData": [
+          {
+            "priceUSD": "3293.802176029499260419916565128127"
+          }
+        ]
+      },
+      "volumeUSD": "266154713.8518516080827613372498048"
+    },
+    {
+      "id": "0xcd578f016888b57f1b1e3f887f392f0159e26747",
+      "reserve0": "101510.405701",
+      "reserve1": "101771.111031165126480058",
+      "token0": {
+        "decimals": "6",
+        "id": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+        "name": "USD Coin (PoS)",
+        "symbol": "USDC",
+        "tokenDayData": [
+          {
+            "priceUSD": "1.000046533749715897926937904699398"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+        "name": "(PoS) Dai Stablecoin",
+        "symbol": "DAI",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.9994132372592596422439121670995368"
+          }
+        ]
+      },
+      "volumeUSD": "227795239.3370632773103264117065976"
+    },
+    {
+      "id": "0x396e655c309676caf0acf4607a868e0cded876db",
+      "reserve0": "101025.613873071936842563",
+      "reserve1": "7.928064309361884361",
+      "token0": {
+        "decimals": "18",
+        "id": "0x172370d5cd63279efa6d502dab29171933a610af",
+        "name": "CRV (PoS)",
+        "symbol": "CRV",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.2584830421981670854173739505853096"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "tokenDayData": [
+          {
+            "priceUSD": "3293.802176029499260419916565128127"
+          }
+        ]
+      },
+      "volumeUSD": "186939422.0013032089467396176423413"
+    },
+    {
+      "id": "0xde990994309bc08e57aca82b1a19170ad84323e8",
+      "reserve0": "82258.775327",
+      "reserve1": "32345374.466786169216178322",
+      "token0": {
+        "decimals": "6",
+        "id": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+        "name": "USD Coin (PoS)",
+        "symbol": "USDC",
+        "tokenDayData": [
+          {
+            "priceUSD": "1.000046533749715897926937904699398"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0x67eb41a14c0fe5cd701fc9d5a3d6597a72f641a6",
+        "name": "Giddy Token",
+        "symbol": "GDDY",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.0025432570960257181046026834999307"
+          }
+        ]
+      },
+      "volumeUSD": "185908087.0575373408723861230660321"
+    },
+    {
+      "id": "0x426a56f6923c2b8a488407fc1b38007317ecafb1",
+      "reserve0": "18.658776181962567323",
+      "reserve1": "6872875.195286368304406154",
+      "token0": {
+        "decimals": "18",
+        "id": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "tokenDayData": [
+          {
+            "priceUSD": "3293.802176029499260419916565128127"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0xcd7361ac3307d1c5a46b63086a90742ff44c63b3",
+        "name": "RaiderToken",
+        "symbol": "RAIDER",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.009082264575358078866695574480140811"
+          }
+        ]
+      },
+      "volumeUSD": "143447304.7412235386546634647568026"
+    },
+    {
+      "id": "0xcbf6f78981e63ef813cb71852d72a060b583eecf",
+      "reserve0": "14357.888782584471130407",
+      "reserve1": "40631.637656857505433885",
+      "token0": {
+        "decimals": "18",
+        "id": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+        "name": "Wrapped Matic",
+        "symbol": "WMATIC",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.5106059412541639355618817226741645"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0x3a3df212b7aa91aa0402b9035b098891d276572b",
+        "name": "Fish",
+        "symbol": "FISH",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.1825244600586458868594673901625041"
+          }
+        ]
+      },
+      "volumeUSD": "141717213.2259061402211803699562538"
+    },
+    {
+      "id": "0x2e7d6490526c7d7e2fdea5c6ec4b0d1b9f8b25b7",
+      "reserve0": "104116.18448995115313225",
+      "reserve1": "5940554.182429414178633185",
+      "token0": {
+        "decimals": "18",
+        "id": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+        "name": "Wrapped Matic",
+        "symbol": "WMATIC",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.5106059412541639355618817226741645"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0xcd7361ac3307d1c5a46b63086a90742ff44c63b3",
+        "name": "RaiderToken",
+        "symbol": "RAIDER",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.009082264575358078866695574480140811"
+          }
+        ]
+      },
+      "volumeUSD": "128604363.3693439978887924998962844"
+    },
+    {
+      "id": "0xb5846453b67d0b4b4ce655930cf6e4129f4416d7",
+      "reserve0": "9318.003375235412750798",
+      "reserve1": "1.986740847805911606",
+      "token0": {
+        "decimals": "18",
+        "id": "0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a",
+        "name": "SushiToken (PoS)",
+        "symbol": "SUSHI",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.7003722857957852574934202370808983"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "tokenDayData": [
+          {
+            "priceUSD": "3293.802176029499260419916565128127"
+          }
+        ]
+      },
+      "volumeUSD": "116495511.8739047775802617517823491"
+    },
+    {
+      "id": "0x999fc000f3f5176306c0753bad01d6a37644feef",
+      "reserve0": "99274296.657159889655733103",
+      "reserve1": "4297.033458",
+      "token0": {
+        "decimals": "18",
+        "id": "0x228b5c21ac00155cf62c57bcc704c0da8187950b",
+        "name": "Nexus Dubai",
+        "symbol": "NXD",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.00004337020839651824129014095795858348"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "6",
+        "id": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+        "name": "(PoS) Tether USD",
+        "symbol": "USDT",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.9995734864418868727691390430524514"
+          }
+        ]
+      },
+      "volumeUSD": "97391855.0179860366726892760858802"
+    },
+    {
+      "id": "0xa34ec05da1e4287fa351c74469189345990a3f0c",
+      "reserve0": "662409.89734",
+      "reserve1": "1788083.179514840571210945",
+      "token0": {
+        "decimals": "6",
+        "id": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+        "name": "USD Coin (PoS)",
+        "symbol": "USDC",
+        "tokenDayData": [
+          {
+            "priceUSD": "1.000046533749715897926937904699398"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
+        "name": "StargateToken",
+        "symbol": "STG",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.3704753393605553311716077616388817"
+          }
+        ]
+      },
+      "volumeUSD": "86848566.52858298328015798650850467"
+    },
+    {
+      "id": "0xf69e93771f11aecd8e554aa165c3fe7fd811530c",
+      "reserve0": "145539.40274754681756991",
+      "reserve1": "69336.294217432959391139",
+      "token0": {
+        "decimals": "18",
+        "id": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+        "name": "Wrapped Matic",
+        "symbol": "WMATIC",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.5106059412541639355618817226741645"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7",
+        "name": "Aavegotchi GHST Token (PoS)",
+        "symbol": "GHST",
+        "tokenDayData": [
+          {
+            "priceUSD": "1.071780438774204955011980976778407"
+          }
+        ]
+      },
+      "volumeUSD": "74227687.50839393569886759473766041"
+    },
+    {
+      "id": "0xf850c261adc576e6713d14af590a40d55936a982",
+      "reserve0": "3.141714200511915225",
+      "reserve1": "7.288362",
+      "token0": {
+        "decimals": "18",
+        "id": "0x1a3acf6d19267e2d3e7f898f42803e90c9219062",
+        "name": "Frax Share",
+        "symbol": "FXS",
+        "tokenDayData": [
+          {
+            "priceUSD": "0"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "6",
+        "id": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+        "name": "USD Coin (PoS)",
+        "symbol": "USDC",
+        "tokenDayData": [
+          {
+            "priceUSD": "1.000046533749715897926937904699398"
+          }
+        ]
+      },
+      "volumeUSD": "71228126.45670035128343003768310128"
+    },
+    {
+      "id": "0x1ceda73c034218255f50ef8a2c282e6b4c301d60",
+      "reserve0": "167539.953854376618376348",
+      "reserve1": "9.707072044048692851",
+      "token0": {
+        "decimals": "18",
+        "id": "0x5fe2b58c013d7601147dcdd68c143a77499f5531",
+        "name": "Graph Token (PoS)",
+        "symbol": "GRT",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.1908474121288874611314904574264725"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "tokenDayData": [
+          {
+            "priceUSD": "3293.802176029499260419916565128127"
+          }
+        ]
+      },
+      "volumeUSD": "69492129.49099857216031216026546656"
+    },
+    {
+      "id": "0x1274de0de2e9d9b1d0e06313c0e5edd01cc335ef",
+      "reserve0": "1567.195771361623608501",
+      "reserve1": "12.84280789384350838",
+      "token0": {
+        "decimals": "18",
+        "id": "0x2c89bbc92bd86f8075d1decc58c7f4e0107f286b",
+        "name": "Avalanche Token",
+        "symbol": "AVAX",
+        "tokenDayData": [
+          {
+            "priceUSD": "27.34528572754426332328264592997491"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "tokenDayData": [
+          {
+            "priceUSD": "3293.802176029499260419916565128127"
+          }
+        ]
+      },
+      "volumeUSD": "66012229.33298572651252822598268032"
+    },
+    {
+      "id": "0x82d5bcc22856a3316f993340662d6253b3bc3f76",
+      "reserve0": "162.429021",
+      "reserve1": "163.416640086875977589",
+      "token0": {
+        "decimals": "6",
+        "id": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+        "name": "USD Coin (PoS)",
+        "symbol": "USDC",
+        "tokenDayData": [
+          {
+            "priceUSD": "1.000046533749715897926937904699398"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0x45c32fa6df82ead1e2ef74d17b76547eddfaff89",
+        "name": "Frax",
+        "symbol": "FRAX",
+        "tokenDayData": [
+          {
+            "priceUSD": "0"
+          }
+        ]
+      },
+      "volumeUSD": "65787804.47110048013844937393411855"
+    },
+    {
+      "id": "0x9e20a8d3501bf96eda8e69b96dd84840058a1cb0",
+      "reserve0": "4301.304765201501638701",
+      "reserve1": "4279.907219",
+      "token0": {
+        "decimals": "18",
+        "id": "0x104592a158490a9228070e0a8e5343b499e125d0",
+        "name": "Frax (PoS)",
+        "symbol": "FRAX",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.995095185520985354857127496654904"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "6",
+        "id": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+        "name": "USD Coin (PoS)",
+        "symbol": "USDC",
+        "tokenDayData": [
+          {
+            "priceUSD": "1.000046533749715897926937904699398"
+          }
+        ]
+      },
+      "volumeUSD": "62136941.75605738522597911999255158"
+    },
+    {
+      "id": "0x91670a2a69554c61d814cd7f406d7793387e68ef",
+      "reserve0": "113275.766651808102711113",
+      "reserve1": "176783742.238786360315224525",
+      "token0": {
+        "decimals": "18",
+        "id": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+        "name": "Wrapped Matic",
+        "symbol": "WMATIC",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.5106059412541639355618817226741645"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0x34d4ab47bee066f361fa52d792e69ac7bd05ee23",
+        "name": "RaiderAurum",
+        "symbol": "AURUM",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.0003272358503555378093866590888301028"
+          }
+        ]
+      },
+      "volumeUSD": "62000116.57893480238883878305617865"
+    },
+    {
+      "id": "0xabee7668a96c49d27886d1a8914a54a5f9805041",
+      "reserve0": "64289.358505",
+      "reserve1": "195811766.12969419497222904",
+      "token0": {
+        "decimals": "6",
+        "id": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+        "name": "USD Coin (PoS)",
+        "symbol": "USDC",
+        "tokenDayData": [
+          {
+            "priceUSD": "1.000046533749715897926937904699398"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0x34d4ab47bee066f361fa52d792e69ac7bd05ee23",
+        "name": "RaiderAurum",
+        "symbol": "AURUM",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.0003272358503555378093866590888301028"
+          }
+        ]
+      },
+      "volumeUSD": "61928772.66653324526753023276420425"
+    },
+    {
+      "id": "0xc30d6bc42911aa21a63e51c7121b33b3e65cc3c4",
+      "reserve0": "2529.72225",
+      "reserve1": "17776.79948872358215757",
+      "token0": {
+        "decimals": "6",
+        "id": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+        "name": "USD Coin (PoS)",
+        "symbol": "USDC",
+        "tokenDayData": [
+          {
+            "priceUSD": "1.000046533749715897926937904699398"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0x9af3b7dc29d3c4b1a5731408b6a9656fa7ac3b72",
+        "name": "PUSD",
+        "symbol": "PUSD",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.142300599979871755813276436187307"
+          }
+        ]
+      },
+      "volumeUSD": "61253551.27375500674064880782772455"
+    },
+    {
+      "id": "0xdf45b5b68d9dc84173dd963c763aea8cad3e24a6",
+      "reserve0": "788.657087252813013902",
+      "reserve1": "1819.041263180837782677",
+      "token0": {
+        "decimals": "18",
+        "id": "0x1a3acf6d19267e2d3e7f898f42803e90c9219062",
+        "name": "Frax Share",
+        "symbol": "FXS",
+        "tokenDayData": [
+          {
+            "priceUSD": "0"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0x45c32fa6df82ead1e2ef74d17b76547eddfaff89",
+        "name": "Frax",
+        "symbol": "FRAX",
+        "tokenDayData": [
+          {
+            "priceUSD": "0"
+          }
+        ]
+      },
+      "volumeUSD": "54682425.46271865603500839827843737"
+    },
+    {
+      "id": "0xc48ae82ca34c63887b975f20aba91a38f2a900b8",
+      "reserve0": "9.320992429154024562",
+      "reserve1": "91816.361743550855540264",
+      "token0": {
+        "decimals": "18",
+        "id": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "tokenDayData": [
+          {
+            "priceUSD": "3293.802176029499260419916565128127"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0xa1c57f48f0deb89f569dfbe6e2b7f46d33606fd4",
+        "name": "(PoS) Decentraland MANA",
+        "symbol": "MANA",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.3343940101140664827425863253995876"
+          }
+        ]
+      },
+      "volumeUSD": "53368412.72882511793867642852993939"
+    },
+    {
+      "id": "0x014ac2a53aa6fba4dcd93fde6d3c787b79a1a6e6",
+      "reserve0": "163056.169832360267003011",
+      "reserve1": "432726.320082701285722664",
+      "token0": {
+        "decimals": "18",
+        "id": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+        "name": "Wrapped Matic",
+        "symbol": "WMATIC",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.5106059412541639355618817226741645"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0xe06bd4f5aac8d0aa337d13ec88db6defc6eaeefe",
+        "name": "PlanetIX",
+        "symbol": "IXT",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.1924020916006200498162947168189413"
+          }
+        ]
+      },
+      "volumeUSD": "49758354.4861456373431788299667701"
+    },
+    {
+      "id": "0x941eb28e750c441aef465a89e43ddfec2561830b",
+      "reserve0": "90955.796120701259366028",
+      "reserve1": "4.941355254712682259",
+      "token0": {
+        "decimals": "18",
+        "id": "0x4e1581f01046efdd7a1a2cdb0f82cdd7f71f2e59",
+        "name": "IceToken",
+        "symbol": "ICE",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.1791377814904294269451414017727372"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "tokenDayData": [
+          {
+            "priceUSD": "3293.802176029499260419916565128127"
+          }
+        ]
+      },
+      "volumeUSD": "43814805.94906110704094484998223862"
+    },
+    {
+      "id": "0xd74d23d2f23cd06a7d94f740a74c6e906f0c9005",
+      "reserve0": "2796.67856902973864537",
+      "reserve1": "72233.49181193003808494",
+      "token0": {
+        "decimals": "18",
+        "id": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+        "name": "Wrapped Matic",
+        "symbol": "WMATIC",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.5106059412541639355618817226741645"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0x2ab4f9ac80f33071211729e45cfc346c1f8446d5",
+        "name": "ChainGuardians Governance Token (PoS)",
+        "symbol": "CGG",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.01977288928479868378424697464231701"
+          }
+        ]
+      },
+      "volumeUSD": "42329985.04348694444230902528019312"
+    },
+    {
+      "id": "0xc2c88da3bc73d927293e4c516c446f87884b84c6",
+      "reserve0": "8628.819752",
+      "reserve1": "1287407.938204113016720909",
+      "token0": {
+        "decimals": "6",
+        "id": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+        "name": "USD Coin (PoS)",
+        "symbol": "USDC",
+        "tokenDayData": [
+          {
+            "priceUSD": "1.000046533749715897926937904699398"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0xd4945a3d0de9923035521687d4bf18cc9b0c7c2a",
+        "name": "LUXY",
+        "symbol": "LUXY",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.006701288856486361598257281017077141"
+          }
+        ]
+      },
+      "volumeUSD": "41548585.28619197686032154525980399"
+    },
+    {
+      "id": "0x1549e0e8127d380080aab448b82d280433ce4030",
+      "reserve0": "5.075628900470662397",
+      "reserve1": "5.050680955195889921",
+      "token0": {
+        "decimals": "18",
+        "id": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "tokenDayData": [
+          {
+            "priceUSD": "3293.802176029499260419916565128127"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0xd8ca34fd379d9ca3c6ee3b3905678320f5b45195",
+        "name": "Governance OHM",
+        "symbol": "gOHM",
+        "tokenDayData": [
+          {
+            "priceUSD": "3295.477638230867095217947721730368"
+          }
+        ]
+      },
+      "volumeUSD": "39770984.87018073501739034666177499"
+    },
+    {
+      "id": "0x597a9bc3b24c2a578ccb3aa2c2c62c39427c6a49",
+      "reserve0": "3797.651612939866258581",
+      "reserve1": "5209.046197828792931901",
+      "token0": {
+        "decimals": "18",
+        "id": "0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a",
+        "name": "SushiToken (PoS)",
+        "symbol": "SUSHI",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.7003722857957852574934202370808983"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+        "name": "Wrapped Matic",
+        "symbol": "WMATIC",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.5106059412541639355618817226741645"
+          }
+        ]
+      },
+      "volumeUSD": "39601965.48756608311955917267272315"
+    },
+    {
+      "id": "0x590f5e967d73ea06dae9aed2788108dcf52da269",
+      "reserve0": "0.435783422555493098",
+      "reserve1": "34949.988328882630987155",
+      "token0": {
+        "decimals": "18",
+        "id": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "tokenDayData": [
+          {
+            "priceUSD": "3293.802176029499260419916565128127"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0xee800b277a96b0f490a1a732e1d6395fad960a26",
+        "name": "ARPA Token (PoS)",
+        "symbol": "ARPA",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.04128023957201235731819608394190006"
+          }
+        ]
+      },
+      "volumeUSD": "39048173.13837380984107701668206748"
+    },
+    {
+      "id": "0x116ff0d1caa91a6b94276b3471f33dbeb52073e7",
+      "reserve0": "4258.703138009504818113",
+      "reserve1": "2.316452755522115204",
+      "token0": {
+        "decimals": "18",
+        "id": "0x50b728d8d964fd00c2d0aad81718b71311fef68a",
+        "name": "Synthetix Network Token (PoS)",
+        "symbol": "SNX",
+        "tokenDayData": [
+          {
+            "priceUSD": "1.791605840748983695583263331595336"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "tokenDayData": [
+          {
+            "priceUSD": "3293.802176029499260419916565128127"
+          }
+        ]
+      },
+      "volumeUSD": "38630495.66682736113485221335130421"
+    },
+    {
+      "id": "0xb8f54cc0106bdf662591d7e8b01a9b6a01ca74c8",
+      "reserve0": "0.217306056858894246",
+      "reserve1": "1608296.476401485700578963",
+      "token0": {
+        "decimals": "18",
+        "id": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "tokenDayData": [
+          {
+            "priceUSD": "3293.802176029499260419916565128127"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0xcd966b72cff52dc349089b6b6f5865b5743b4e08",
+        "name": "TOMI",
+        "symbol": "TOMI",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.0004395141588236077146394163324594735"
+          }
+        ]
+      },
+      "volumeUSD": "36731442.94633911383889833356547529"
+    },
+    {
+      "id": "0xa56ef0cdcf57c895206f175251cee9317c1460d7",
+      "reserve0": "0.010841637982402046",
+      "reserve1": "58992437.217101127289274508",
+      "token0": {
+        "decimals": "18",
+        "id": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "tokenDayData": [
+          {
+            "priceUSD": "3293.802176029499260419916565128127"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0xc17b109e146934d36c33e55fade9cbda791b0366",
+        "name": "Kart Racing League",
+        "symbol": "KRL",
+        "tokenDayData": [
+          {
+            "priceUSD": "0"
+          }
+        ]
+      },
+      "volumeUSD": "35415384.43869103237507479344775118"
+    },
+    {
+      "id": "0xe7c714dd3dd70ee04eb69a856655765454e77c88",
+      "reserve0": "47.27791931188574878",
+      "reserve1": "24.714865900744853946",
+      "token0": {
+        "decimals": "18",
+        "id": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+        "name": "Wrapped Matic",
+        "symbol": "WMATIC",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.5106059412541639355618817226741645"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0x45c32fa6df82ead1e2ef74d17b76547eddfaff89",
+        "name": "Frax",
+        "symbol": "FRAX",
+        "tokenDayData": [
+          {
+            "priceUSD": "0"
+          }
+        ]
+      },
+      "volumeUSD": "29475974.38311537684940675089533552"
+    },
+    {
+      "id": "0x5cf66ceaf7f6395642cd11b5929499229edef531",
+      "reserve0": "110.238814812",
+      "reserve1": "2.17436820631056257",
+      "token0": {
+        "decimals": "9",
+        "id": "0x29f1e986fca02b7e54138c04c4f503dddd250558",
+        "name": "VSQ",
+        "symbol": "VSQ",
+        "tokenDayData": [
+          {
+            "priceUSD": "0"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+        "name": "(PoS) Dai Stablecoin",
+        "symbol": "DAI",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.9994132372592596422439121670995368"
+          }
+        ]
+      },
+      "volumeUSD": "27929270.50845423217681156286024807"
+    },
+    {
+      "id": "0xe4984fc367ab9a8c9dc6978d5c0d22c6626c6c54",
+      "reserve0": "47.898263",
+      "reserve1": "2146745447.217664588442622599",
+      "token0": {
+        "decimals": "6",
+        "id": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+        "name": "USD Coin (PoS)",
+        "symbol": "USDC",
+        "tokenDayData": [
+          {
+            "priceUSD": "1.000046533749715897926937904699398"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0xaaa5b9e6c589642f98a1cda99b9d024b8407285a",
+        "name": "IRON Titanium Token",
+        "symbol": "TITAN",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.0000000225876719463767147079686546321941"
+          }
+        ]
+      },
+      "volumeUSD": "24893059.67137485334668718884903778"
+    },
+    {
+      "id": "0x01cdcc99a4f9a68be18504750b219caa881841eb",
+      "reserve0": "0.000722620793131626",
+      "reserve1": "12973.937122751732535612",
+      "token0": {
+        "decimals": "18",
+        "id": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "tokenDayData": [
+          {
+            "priceUSD": "3293.802176029499260419916565128127"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0xd86b5923f3ad7b585ed81b448170ae026c65ae9a",
+        "name": "IRON Stablecoin",
+        "symbol": "IRON",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.0001802607659062733679870336556025052"
+          }
+        ]
+      },
+      "volumeUSD": "22903933.89947682492160463333802196"
+    },
+    {
+      "id": "0xd8e7d368ab9bdf0010a9934b0e801b3f38cecef6",
+      "reserve0": "9399071.920177202737942742",
+      "reserve1": "17.693330143613198345",
+      "token0": {
+        "decimals": "18",
+        "id": "0x071ac29d569a47ebffb9e57517f855cb577dcc4c",
+        "name": "GCOIN",
+        "symbol": "GFC",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.006366194651543005020696344323969761"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "tokenDayData": [
+          {
+            "priceUSD": "3293.802176029499260419916565128127"
+          }
+        ]
+      },
+      "volumeUSD": "22691055.70949919662051076357726485"
+    },
+    {
+      "id": "0x1bf9805b40a5f69c7d0f9e5d1ab718642203c652",
+      "reserve0": "0.645556990015548668",
+      "reserve1": "31958.406557222506873477",
+      "token0": {
+        "decimals": "18",
+        "id": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "tokenDayData": [
+          {
+            "priceUSD": "3293.802176029499260419916565128127"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0x840195888db4d6a99ed9f73fcd3b225bb3cb1a79",
+        "name": "SportX (PoS)",
+        "symbol": "SX",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.06708887217617690869116950410183383"
+          }
+        ]
+      },
+      "volumeUSD": "22451924.15005912755948133131786595"
+    },
+    {
+      "id": "0xadd053a09f95e565b25d8b9b84d0fcfaa962465e",
+      "reserve0": "9249.263708178968383748",
+      "reserve1": "20.050513342366867976",
+      "token0": {
+        "decimals": "18",
+        "id": "0x3ad707da309f3845cd602059901e39c4dcd66473",
+        "name": "ETH 2x Flexible Leverage Index",
+        "symbol": "ETH2x-FLI-P",
+        "tokenDayData": [
+          {
+            "priceUSD": "7.229428475064387334720122929274126"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "tokenDayData": [
+          {
+            "priceUSD": "3293.802176029499260419916565128127"
+          }
+        ]
+      },
+      "volumeUSD": "21771574.35221419957163515159237402"
+    },
+    {
+      "id": "0x9ad5cdc89001a2eb0cc7713c788f843de881d803",
+      "reserve0": "0.002323750963910859",
+      "reserve1": "266.451137292109078924",
+      "token0": {
+        "decimals": "18",
+        "id": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "tokenDayData": [
+          {
+            "priceUSD": "3293.802176029499260419916565128127"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0xe7804d91dfcde7f776c90043e03eaa6df87e6395",
+        "name": "DFX Token (PoS)",
+        "symbol": "DFX",
+        "tokenDayData": [
+          {
+            "priceUSD": "0"
+          }
+        ]
+      },
+      "volumeUSD": "21432096.86531287344748039151072867"
+    },
+    {
+      "id": "0x4bf231b70f73218837106394b3893692237f9225",
+      "reserve0": "1.016137",
+      "reserve1": "0.082731655526407014",
+      "token0": {
+        "decimals": "6",
+        "id": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+        "name": "(PoS) Tether USD",
+        "symbol": "USDT",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.9995734864418868727691390430524514"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0xd41cbd667ad10ab83198f40ec6ac97190309178b",
+        "name": "Minati",
+        "symbol": "MNTC",
+        "tokenDayData": [
+          {
+            "priceUSD": "0"
+          }
+        ]
+      },
+      "volumeUSD": "20631190.30987747068638669960251855"
+    },
+    {
+      "id": "0x180237bd326d5245d0898336f54b3c8012c5c62f",
+      "reserve0": "345.500878",
+      "reserve1": "52.579699990666079411",
+      "token0": {
+        "decimals": "6",
+        "id": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+        "name": "USD Coin (PoS)",
+        "symbol": "USDC",
+        "tokenDayData": [
+          {
+            "priceUSD": "1.000046533749715897926937904699398"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0xfbdd194376de19a88118e84e279b977f165d01b8",
+        "name": "beefy.finance",
+        "symbol": "BIFI",
+        "tokenDayData": [
+          {
+            "priceUSD": "0"
+          }
+        ]
+      },
+      "volumeUSD": "20262127.00810049659489466651616786"
+    },
+    {
+      "id": "0x7c9b16d845fe163f464d265193cc2b4ee3fac326",
+      "reserve0": "92.988851373",
+      "reserve1": "11.529582151959055274",
+      "token0": {
+        "decimals": "9",
+        "id": "0x057e0bd9b797f9eeeb8307b35dbc8c12e534c41e",
+        "name": "Guru",
+        "symbol": "GURU",
+        "tokenDayData": [
+          {
+            "priceUSD": "0"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+        "name": "(PoS) Dai Stablecoin",
+        "symbol": "DAI",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.9994132372592596422439121670995368"
+          }
+        ]
+      },
+      "volumeUSD": "20187808.71569882331512311927338035"
+    },
+    {
+      "id": "0xdd650c8d274474ff1af1152b3b27f2702aca8a98",
+      "reserve0": "0.458261408636561958",
+      "reserve1": "507775381.889875489016116323",
+      "token0": {
+        "decimals": "18",
+        "id": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+        "name": "Wrapped Matic",
+        "symbol": "WMATIC",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.5106059412541639355618817226741645"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0xd0f3121a190d85de0ab6131f2bcecdbfcfb38891",
+        "name": "PolyYeld Token",
+        "symbol": "YELD",
+        "tokenDayData": [
+          {
+            "priceUSD": "0"
+          }
+        ]
+      },
+      "volumeUSD": "20106075.73520632951462772318814467"
+    },
+    {
+      "id": "0xa19a81a38bf2238a695629fa7b4a909a2390ddb4",
+      "reserve0": "24.351785160743301433",
+      "reserve1": "20279471.125716700572879404",
+      "token0": {
+        "decimals": "18",
+        "id": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+        "name": "Wrapped Matic",
+        "symbol": "WMATIC",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.5106059412541639355618817226741645"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0xc17b109e146934d36c33e55fade9cbda791b0366",
+        "name": "Kart Racing League",
+        "symbol": "KRL",
+        "tokenDayData": [
+          {
+            "priceUSD": "0"
+          }
+        ]
+      },
+      "volumeUSD": "19753413.52656962018102163070490278"
+    },
+    {
+      "id": "0x73a041fef8271c619791e0af6a6224945b7a446f",
+      "reserve0": "26976.696984",
+      "reserve1": "162071577.91250545237861869",
+      "token0": {
+        "decimals": "6",
+        "id": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+        "name": "USD Coin (PoS)",
+        "symbol": "USDC",
+        "tokenDayData": [
+          {
+            "priceUSD": "1.000046533749715897926937904699398"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0xf796969fa47fb0748c80b8b153cbb895e88cbd54",
+        "name": "Ocavu Network Token",
+        "symbol": "OCAVU",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.0001664472168151025372217076203636896"
+          }
+        ]
+      },
+      "volumeUSD": "18344103.60149263238024580965089171"
+    },
+    {
+      "id": "0x2385b2be5b0005df8e23cf695a83b400b10e717e",
+      "reserve0": "17.057821427089854332",
+      "reserve1": "877105091.408388087206185721",
+      "token0": {
+        "decimals": "18",
+        "id": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "tokenDayData": [
+          {
+            "priceUSD": "3293.802176029499260419916565128127"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0x9e20461bc2c4c980f62f1b279d71734207a6a356",
+        "name": "OmniCat",
+        "symbol": "OMNI",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.00006471672454534752535433352982481823"
+          }
+        ]
+      },
+      "volumeUSD": "18211258.9992026545751752407280742"
+    },
+    {
+      "id": "0xd3924ad8f881514eff89503be9027b877e9e2bd0",
+      "reserve0": "7040.794592",
+      "reserve1": "82337033.043049890629293307",
+      "token0": {
+        "decimals": "6",
+        "id": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+        "name": "USD Coin (PoS)",
+        "symbol": "USDC",
+        "tokenDayData": [
+          {
+            "priceUSD": "1.000046533749715897926937904699398"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0x5a3064cbdccf428ae907796cf6ad5a664cd7f3d8",
+        "name": "PYQ",
+        "symbol": "PYQ",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.00008551477139529173926757276517405794"
+          }
+        ]
+      },
+      "volumeUSD": "18036263.72563587995161304759560095"
+    },
+    {
+      "id": "0x55ff76bffc3cdd9d5fdbbc2ece4528ecce45047e",
+      "reserve0": "20971.006071266042209358",
+      "reserve1": "10712.489316",
+      "token0": {
+        "decimals": "18",
+        "id": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+        "name": "Wrapped Matic",
+        "symbol": "WMATIC",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.5106059412541639355618817226741645"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "6",
+        "id": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+        "name": "(PoS) Tether USD",
+        "symbol": "USDT",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.9995734864418868727691390430524514"
+          }
+        ]
+      },
+      "volumeUSD": "17863406.57112785821266135198857449"
+    },
+    {
+      "id": "0xdb995f975f1bfc3b2157495c47e4efb31196b2ca",
+      "reserve0": "71075.537333",
+      "reserve1": "93660.760796901700825593",
+      "token0": {
+        "decimals": "6",
+        "id": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+        "name": "USD Coin (PoS)",
+        "symbol": "USDC",
+        "tokenDayData": [
+          {
+            "priceUSD": "1.000046533749715897926937904699398"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0xd838290e877e0188a4a44700463419ed96c16107",
+        "name": "Toucan Protocol: Nature Carbon Tonne",
+        "symbol": "NCT",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.7589170043592330289455763695296428"
+          }
+        ]
+      },
+      "volumeUSD": "17812657.40454321886815612716684504"
+    },
+    {
+      "id": "0x905dcc700fcce9a49b7d907e371230995a45ebce",
+      "reserve0": "536.650414593115689213",
+      "reserve1": "10092281.526592519106880621",
+      "token0": {
+        "decimals": "18",
+        "id": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+        "name": "Wrapped Matic",
+        "symbol": "WMATIC",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.5106059412541639355618817226741645"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0xc68e83a305b0fad69e264a1769a0a070f190d2d6",
+        "name": "Polyroll Token",
+        "symbol": "ROLL",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.0000271914314690244136239069159327077"
+          }
+        ]
+      },
+      "volumeUSD": "17552871.52974784887121317489027744"
+    },
+    {
+      "id": "0xd10bb4ed281a84492343573885168027cc625bf7",
+      "reserve0": "427.385823",
+      "reserve1": "222144.292491325580344086",
+      "token0": {
+        "decimals": "6",
+        "id": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+        "name": "(PoS) Tether USD",
+        "symbol": "USDT",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.9995734864418868727691390430524514"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0xe8377a076adabb3f9838afb77bee96eac101ffb1",
+        "name": "MetaSoccer Universe",
+        "symbol": "MSU",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.001924194161294433770652280342793694"
+          }
+        ]
+      },
+      "volumeUSD": "17224020.15767056354082401916045442"
+    },
+    {
+      "id": "0xc16e382aa7353aad0f598856afd9a93513542970",
+      "reserve0": "783.99343298811138205",
+      "reserve1": "426.733808388",
+      "token0": {
+        "decimals": "18",
+        "id": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+        "name": "(PoS) Dai Stablecoin",
+        "symbol": "DAI",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.9994132372592596422439121670995368"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "9",
+        "id": "0xac63686230f64bdeaf086fe6764085453ab3023f",
+        "name": "Universal Store of Value",
+        "symbol": "USV",
+        "tokenDayData": [
+          {
+            "priceUSD": "1.838270257650941725665018220147502"
+          }
+        ]
+      },
+      "volumeUSD": "16011053.67409395115584191797769232"
+    },
+    {
+      "id": "0x35a47a2defdcf9346f234ef08afec5f79c373c5a",
+      "reserve0": "0.510175",
+      "reserve1": "0.22231178170009274",
+      "token0": {
+        "decimals": "6",
+        "id": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+        "name": "USD Coin (PoS)",
+        "symbol": "USDC",
+        "tokenDayData": [
+          {
+            "priceUSD": "1.000046533749715897926937904699398"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0x2b9e7ccdf0f4e5b24757c1e1a80e311e34cb10c7",
+        "name": "Mask Network (PoS)",
+        "symbol": "MASK",
+        "tokenDayData": [
+          {
+            "priceUSD": "0"
+          }
+        ]
+      },
+      "volumeUSD": "15666566.81087519749362238447787026"
+    },
+    {
+      "id": "0xbe69026ac368e0852408705a92e5701a47e7698f",
+      "reserve0": "7228.495355",
+      "reserve1": "591726.0944314",
+      "token0": {
+        "decimals": "6",
+        "id": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+        "name": "(PoS) Tether USD",
+        "symbol": "USDT",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.9995734864418868727691390430524514"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "8",
+        "id": "0xe26cda27c13f4f87cffc2f437c5900b27ebb5bbb",
+        "name": "Rebel Bots Token",
+        "symbol": "RBLS",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.01223579870095703102134343908301289"
+          }
+        ]
+      },
+      "volumeUSD": "15507003.54113488442434288745870201"
+    },
+    {
+      "id": "0x8f8e95ff4b4c5e354ccb005c6b0278492d7b5907",
+      "reserve0": "0.27378422",
+      "reserve1": "0.280967978325374795",
+      "token0": {
+        "decimals": "8",
+        "id": "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6",
+        "name": "(PoS) Wrapped BTC",
+        "symbol": "WBTC",
+        "tokenDayData": [
+          {
+            "priceUSD": "65925.36879973936553613146052740199"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0x4eac4c4e9050464067d673102f8e24b2fcceb350",
+        "name": "Interest-Bearing BTC",
+        "symbol": "ibBTC",
+        "tokenDayData": [
+          {
+            "priceUSD": "66416.93413363834059771346221099159"
+          }
+        ]
+      },
+      "volumeUSD": "15230155.99976278632659568522613222"
+    },
+    {
+      "id": "0xd8d51ea2edca2c2ea15a053a5730f559d79a1570",
+      "reserve0": "967.749277",
+      "reserve1": "76.478613130948282646",
+      "token0": {
+        "decimals": "6",
+        "id": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+        "name": "USD Coin (PoS)",
+        "symbol": "USDC",
+        "tokenDayData": [
+          {
+            "priceUSD": "1.000046533749715897926937904699398"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0x7f426f6dc648e50464a0392e60e1bb465a67e9cf",
+        "name": "Orbit Bridge Polygon AUTOv2",
+        "symbol": "PAUTO",
+        "tokenDayData": [
+          {
+            "priceUSD": "12.65241038809019662144108058595661"
+          }
+        ]
+      },
+      "volumeUSD": "14082896.11844860002045724190525339"
+    },
+    {
+      "id": "0x609602abe648b1c81e4444c7ca9ffe90d89c7b77",
+      "reserve0": "2194.825030872362294582",
+      "reserve1": "44.417737087358435915",
+      "token0": {
+        "decimals": "18",
+        "id": "0x0169ec1f8f639b32eec6d923e24c2a2ff45b9dd6",
+        "name": "Algebra",
+        "symbol": "ALGB",
+        "tokenDayData": [
+          {
+            "priceUSD": "0"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+        "name": "Wrapped Matic",
+        "symbol": "WMATIC",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.5106059412541639355618817226741645"
+          }
+        ]
+      },
+      "volumeUSD": "14025051.09188517267686892981958106"
+    },
+    {
+      "id": "0x3d4219987fbb25c3dcf73fbd9aa85fbe3c7411d9",
+      "reserve0": "5768910.977389247256400451",
+      "reserve1": "1.710911631925255078",
+      "token0": {
+        "decimals": "18",
+        "id": "0x34667ed7c36cbbbf2d5d5c5c8d6eb76a094edb9f",
+        "name": "GenomesDAO (PoS)",
+        "symbol": "GENE",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.001003158092021759913095966157875951"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "tokenDayData": [
+          {
+            "priceUSD": "3293.802176029499260419916565128127"
+          }
+        ]
+      },
+      "volumeUSD": "13939403.62487845770491371264327591"
+    },
+    {
+      "id": "0x97a95deb56d689802f02f50c25ebcda5d0a49591",
+      "reserve0": "133.30357",
+      "reserve1": "43750.735908229",
+      "token0": {
+        "decimals": "6",
+        "id": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+        "name": "USD Coin (PoS)",
+        "symbol": "USDC",
+        "tokenDayData": [
+          {
+            "priceUSD": "1.000046533749715897926937904699398"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "9",
+        "id": "0xf153eff70dc0bf3b085134928daeea248d9b30d0",
+        "name": "Standard (PoS)",
+        "symbol": "xMARK",
+        "tokenDayData": [
+          {
+            "priceUSD": "0"
+          }
+        ]
+      },
+      "volumeUSD": "13629351.44421906820571848306471557"
+    },
+    {
+      "id": "0x0a7f27e370168b1e1be2ef77a8ba28d66983c515",
+      "reserve0": "0.738386287340124304",
+      "reserve1": "842493.8789501543492635",
+      "token0": {
+        "decimals": "18",
+        "id": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "tokenDayData": [
+          {
+            "priceUSD": "3293.802176029499260419916565128127"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0xeb45921fedadf41df0bfcf5c33453acedda32441",
+        "name": "pZUG",
+        "symbol": "pZUG",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.0028906547843991565227935993980812"
+          }
+        ]
+      },
+      "volumeUSD": "13053255.56556681646897159530509332"
+    },
+    {
+      "id": "0xc5666d43f06c073e869bce02407569f578b2072d",
+      "reserve0": "981802.832224124523053907",
+      "reserve1": "1.950317273298303066",
+      "token0": {
+        "decimals": "18",
+        "id": "0x4c16f69302ccb511c5fac682c7626b9ef0dc126a",
+        "name": "Polygon BUNNY Token",
+        "symbol": "polyBUNNY",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.006497788078572646081366476745215218"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "tokenDayData": [
+          {
+            "priceUSD": "3293.802176029499260419916565128127"
+          }
+        ]
+      },
+      "volumeUSD": "12794653.66512280022671291452963328"
+    },
+    {
+      "id": "0x94741bb69d8430d9b754c374072ecd04b448ee31",
+      "reserve0": "0.013828489647676813",
+      "reserve1": "1.612634647172434693",
+      "token0": {
+        "decimals": "18",
+        "id": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+        "name": "Wrapped Matic",
+        "symbol": "WMATIC",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.5106059412541639355618817226741645"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0x1fa2f83ba2df61c3d370071d61b17be01e224f3a",
+        "name": "HONEY",
+        "symbol": "HNY",
+        "tokenDayData": [
+          {
+            "priceUSD": "0"
+          }
+        ]
+      },
+      "volumeUSD": "12170852.48512839434511338098434935"
+    },
+    {
+      "id": "0x74276857987726c3e4b523e1339e5a2093e9ad28",
+      "reserve0": "1144.50224005635836345",
+      "reserve1": "2688945.227333368864773053",
+      "token0": {
+        "decimals": "18",
+        "id": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+        "name": "Wrapped Matic",
+        "symbol": "WMATIC",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.5106059412541639355618817226741645"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0xefee2de82343be622dcb4e545f75a3b9f50c272d",
+        "name": "TryHards",
+        "symbol": "TRY",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.0002185927359763954684750758424693521"
+          }
+        ]
+      },
+      "volumeUSD": "12016765.9316340397386232287605014"
+    },
+    {
+      "id": "0xcccec4a90b3435065f5e1fec6346be9da1b7b5ed",
+      "reserve0": "3192.358012654394496569",
+      "reserve1": "158828.925619594391722767",
+      "token0": {
+        "decimals": "18",
+        "id": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+        "name": "Wrapped Matic",
+        "symbol": "WMATIC",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.5106059412541639355618817226741645"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0xf5ea626334037a2cf0155d49ea6462fddc6eff19",
+        "name": "PolygonFarm Finance",
+        "symbol": "SPADE",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.01038189916223873637236703697361125"
+          }
+        ]
+      },
+      "volumeUSD": "11997648.5541836888493894590381312"
+    },
+    {
+      "id": "0x5d0aa60a3cb3e3654faebdd25324538a9d86e1a6",
+      "reserve0": "41565.879884168891083873",
+      "reserve1": "0.50811",
+      "token0": {
+        "decimals": "18",
+        "id": "0xa353deb6fb81df3844d8bd614d33d040fdbb8188",
+        "name": "MagicStone",
+        "symbol": "MST",
+        "tokenDayData": [
+          {
+            "priceUSD": "0"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "6",
+        "id": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+        "name": "(PoS) Tether USD",
+        "symbol": "USDT",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.9995734864418868727691390430524514"
+          }
+        ]
+      },
+      "volumeUSD": "11700951.34320727150700607054381149"
+    },
+    {
+      "id": "0x6fd8aae9f85a7db14c45453daab81aa3085e4ba3",
+      "reserve0": "1021.963006",
+      "reserve1": "98723.77906579335743515",
+      "token0": {
+        "decimals": "6",
+        "id": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+        "name": "USD Coin (PoS)",
+        "symbol": "USDC",
+        "tokenDayData": [
+          {
+            "priceUSD": "1.000046533749715897926937904699398"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0xf5ea626334037a2cf0155d49ea6462fddc6eff19",
+        "name": "PolygonFarm Finance",
+        "symbol": "SPADE",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.01038189916223873637236703697361125"
+          }
+        ]
+      },
+      "volumeUSD": "11294108.24616902856589723619780622"
+    },
+    {
+      "id": "0x780f8dcde782a373237d4f4edb2cf036c010c9fd",
+      "reserve0": "1077832678264.296793",
+      "reserve1": "0.299998",
+      "token0": {
+        "decimals": "6",
+        "id": "0x665299dc1718e3511a8d1cf854063184cbcd62d2",
+        "name": "RXQTP",
+        "symbol": "RXQTP",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.0000000000002780371513166472930453404616593196"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "6",
+        "id": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+        "name": "(PoS) Tether USD",
+        "symbol": "USDT",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.9995734864418868727691390430524514"
+          }
+        ]
+      },
+      "volumeUSD": "11264258.49195978280061113272824025"
+    },
+    {
+      "id": "0x3f2def48b2cbe76aff492a860ed2911840a510b4",
+      "reserve0": "3.84356",
+      "reserve1": "81329798008.998774846",
+      "token0": {
+        "decimals": "6",
+        "id": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+        "name": "(PoS) Tether USD",
+        "symbol": "USDT",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.9995734864418868727691390430524514"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "9",
+        "id": "0xcb186acb5139e1961ae0c269a4cbd743d630815f",
+        "name": "FSSP",
+        "symbol": "FSSP",
+        "tokenDayData": [
+          {
+            "priceUSD": "0"
+          }
+        ]
+      },
+      "volumeUSD": "10795439.33408234999641802771276145"
+    },
+    {
+      "id": "0x4642dafc5281ba5a8d35b2896e0d925b23c6883c",
+      "reserve0": "2.783971334530248638",
+      "reserve1": "328.665719898145463937",
+      "token0": {
+        "decimals": "18",
+        "id": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "tokenDayData": [
+          {
+            "priceUSD": "3293.802176029499260419916565128127"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0xfe712251173a2cd5f5be2b46bb528328ea3565e1",
+        "name": "Metaverse Index (PoS)",
+        "symbol": "MVI",
+        "tokenDayData": [
+          {
+            "priceUSD": "28.14905612700356483574006072626156"
+          }
+        ]
+      },
+      "volumeUSD": "10643505.15286676722966192915971252"
+    },
+    {
+      "id": "0xdcb0c125df19598501427c28e7991564504c947b",
+      "reserve0": "0.042188704238683487",
+      "reserve1": "0.448012253227791686",
+      "token0": {
+        "decimals": "18",
+        "id": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+        "name": "Wrapped Matic",
+        "symbol": "WMATIC",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.5106059412541639355618817226741645"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0x7f67639ffc8c93dd558d452b8920b28815638c44",
+        "name": "iMe Lab",
+        "symbol": "LIME",
+        "tokenDayData": [
+          {
+            "priceUSD": "0"
+          }
+        ]
+      },
+      "volumeUSD": "10640629.57689750529208306486237558"
+    },
+    {
+      "id": "0xf716a43d66c40ee90df429af2459e580c1afc09b",
+      "reserve0": "0.000179735853249256",
+      "reserve1": "465613.730617375053165625",
+      "token0": {
+        "decimals": "18",
+        "id": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "tokenDayData": [
+          {
+            "priceUSD": "3293.802176029499260419916565128127"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0x839f1a22a59eaaf26c85958712ab32f80fea23d9",
+        "name": "Axion",
+        "symbol": "AXN",
+        "tokenDayData": [
+          {
+            "priceUSD": "0"
+          }
+        ]
+      },
+      "volumeUSD": "10204150.48605057530798224243268694"
+    },
+    {
+      "id": "0x8eab441cd2f900c920ea8b966feb6ddcf7851f9d",
+      "reserve0": "980336245736.999999993",
+      "reserve1": "0.299998",
+      "token0": {
+        "decimals": "9",
+        "id": "0x2df93c04663a9e9c997b0d72f01e6ebfc883693b",
+        "name": "FQQ",
+        "symbol": "FQQ",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.0000000000003057411092164408702021469907777431"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "6",
+        "id": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+        "name": "(PoS) Tether USD",
+        "symbol": "USDT",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.9995734864418868727691390430524514"
+          }
+        ]
+      },
+      "volumeUSD": "9846335.461791301630196496555307387"
+    },
+    {
+      "id": "0xc833acc2135e506dabf10dec838798eaf7d538cf",
+      "reserve0": "0.299998",
+      "reserve1": "982853949213.999999993",
+      "token0": {
+        "decimals": "6",
+        "id": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+        "name": "(PoS) Tether USD",
+        "symbol": "USDT",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.9995734864418868727691390430524514"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "9",
+        "id": "0xe0b86303c8ef37ccc7ff74ca47f66acebe1b1252",
+        "name": "AL",
+        "symbol": "AL",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.0000000000003055360175428462827143526708939421"
+          }
+        ]
+      },
+      "volumeUSD": "9836256.54300554450711789081843126"
+    },
+    {
+      "id": "0xd08244e604ca67e2f3fa9b8d3b580e751c42fbc3",
+      "reserve0": "0.16810819411196515",
+      "reserve1": "23.341511085607328019",
+      "token0": {
+        "decimals": "18",
+        "id": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+        "name": "Wrapped Matic",
+        "symbol": "WMATIC",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.5106059412541639355618817226741645"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0x61f95bd637e3034133335c1baa0148e518d438ad",
+        "name": "MetaShooter",
+        "symbol": "MHUNT",
+        "tokenDayData": [
+          {
+            "priceUSD": "0"
+          }
+        ]
+      },
+      "volumeUSD": "9714603.327228508115685772241427406"
+    },
+    {
+      "id": "0xe9bb87c33d1607b06fb3988b31e9601bd21ff3bd",
+      "reserve0": "2619.900830009923762068",
+      "reserve1": "680284.883566630440222221",
+      "token0": {
+        "decimals": "18",
+        "id": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+        "name": "Wrapped Matic",
+        "symbol": "WMATIC",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.5106059412541639355618817226741645"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0x76e63a3e7ba1e2e61d3da86a87479f983de89a7e",
+        "name": "Augury Finance",
+        "symbol": "OMEN",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.001969559674789762617991548226627904"
+          }
+        ]
+      },
+      "volumeUSD": "9369030.736729367147588404813127804"
+    },
+    {
+      "id": "0xd7217619279f31da063d738cf1bf7435764a07d9",
+      "reserve0": "2126283.334654409132026752",
+      "reserve1": "1.268731257324389381",
+      "token0": {
+        "decimals": "18",
+        "id": "0x76e63a3e7ba1e2e61d3da86a87479f983de89a7e",
+        "name": "Augury Finance",
+        "symbol": "OMEN",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.001969559674789762617991548226627904"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "tokenDayData": [
+          {
+            "priceUSD": "3293.802176029499260419916565128127"
+          }
+        ]
+      },
+      "volumeUSD": "9005617.658723796517268790210120623"
+    },
+    {
+      "id": "0x374552804f7ca26c307c8d31f4cc0d9215c87f46",
+      "reserve0": "5889318.823332397200785759",
+      "reserve1": "26.873843551434557194",
+      "token0": {
+        "decimals": "18",
+        "id": "0x5ec03c1f7fa7ff05ec476d19e34a22eddb48acdc",
+        "name": "ZED RUN",
+        "symbol": "ZED",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.0150300736448333602767262429100654"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "tokenDayData": [
+          {
+            "priceUSD": "3293.802176029499260419916565128127"
+          }
+        ]
+      },
+      "volumeUSD": "8840457.450595549540990304718148126"
+    },
+    {
+      "id": "0x55bc7d9e44b730c4a42b52c818c805476156d9c9",
+      "reserve0": "8.978753714746546889",
+      "reserve1": "33052.480432806374247789",
+      "token0": {
+        "decimals": "18",
+        "id": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "tokenDayData": [
+          {
+            "priceUSD": "3293.802176029499260419916565128127"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0xdb725f82818de83e99f1dac22a9b5b51d3d04dd4",
+        "name": "GET Protocol (PoS)",
+        "symbol": "GET",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.9059491292314337737058401827196561"
+          }
+        ]
+      },
+      "volumeUSD": "8742437.359295253390148159324042755"
+    },
+    {
+      "id": "0xa375d23a751124359568f3a22576528bd1c8c3e3",
+      "reserve0": "4.697902758866994759",
+      "reserve1": "126070.580654538460330828",
+      "token0": {
+        "decimals": "18",
+        "id": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "tokenDayData": [
+          {
+            "priceUSD": "3293.802176029499260419916565128127"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0x8c92e38eca8210f4fcbf17f0951b198dd7668292",
+        "name": "dHedge DAO Token (PoS)",
+        "symbol": "DHT",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.1227401529767013158220353121807379"
+          }
+        ]
+      },
+      "volumeUSD": "8700020.393235596692498095085956271"
+    },
+    {
+      "id": "0x81fd1d6d336c3a8a0596badc664ee01269551130",
+      "reserve0": "39.365837893",
+      "reserve1": "1.663263278744966614",
+      "token0": {
+        "decimals": "9",
+        "id": "0x6d5f5317308c6fe7d6ce16930353a8dfd92ba4d7",
+        "name": "Abachi",
+        "symbol": "ABI",
+        "tokenDayData": [
+          {
+            "priceUSD": "0"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+        "name": "(PoS) Dai Stablecoin",
+        "symbol": "DAI",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.9994132372592596422439121670995368"
+          }
+        ]
+      },
+      "volumeUSD": "8695807.719166466621957085680092872"
+    },
+    {
+      "id": "0x6f21996181915d688c787a1ec7c987e2a31b6829",
+      "reserve0": "851.267257",
+      "reserve1": "50297.689879397938594162",
+      "token0": {
+        "decimals": "6",
+        "id": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+        "name": "USD Coin (PoS)",
+        "symbol": "USDC",
+        "tokenDayData": [
+          {
+            "priceUSD": "1.000046533749715897926937904699398"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0x8a0e8b4b0903929f47c3ea30973940d4a9702067",
+        "name": "InsurAce (PoS)",
+        "symbol": "INSUR",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.0169239198333063871907009494624196"
+          }
+        ]
+      },
+      "volumeUSD": "8572841.688126368719863617021919603"
+    },
+    {
+      "id": "0x7c07cecd8cdd65c0dad449808cc5f9ad74c22bd1",
+      "reserve0": "337.766153738088013187",
+      "reserve1": "2.288643903636314385",
+      "token0": {
+        "decimals": "18",
+        "id": "0x35b937583f04a24963eb685f728a542240f28dd8",
+        "name": "Spice (PoS)",
+        "symbol": "SFI",
+        "tokenDayData": [
+          {
+            "priceUSD": "22.27101960385361618657993724458091"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "tokenDayData": [
+          {
+            "priceUSD": "3293.802176029499260419916565128127"
+          }
+        ]
+      },
+      "volumeUSD": "8377378.682759373331943324912906168"
+    },
+    {
+      "id": "0x61bc64c9ba165a890cf543b83aff694ac73dd123",
+      "reserve0": "0.299997",
+      "reserve1": "875742040784.330547",
+      "token0": {
+        "decimals": "6",
+        "id": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+        "name": "(PoS) Tether USD",
+        "symbol": "USDT",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.9995734864418868727691390430524514"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "6",
+        "id": "0xe306ccf3ba1d7c85eec675dbc97ac3ffeb208ed4",
+        "name": "IVL",
+        "symbol": "IVL",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.0000000000003425214872183735951848854736065126"
+          }
+        ]
+      },
+      "volumeUSD": "8348667.158355508157434617476947042"
+    },
+    {
+      "id": "0x8ceed6619aeffd5476315b90eb081485da2aebca",
+      "reserve0": "2614.847432",
+      "reserve1": "2620.133523962655229655",
+      "token0": {
+        "decimals": "6",
+        "id": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+        "name": "USD Coin (PoS)",
+        "symbol": "USDC",
+        "tokenDayData": [
+          {
+            "priceUSD": "1.000046533749715897926937904699398"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0xa3fa99a148fa48d14ed51d610c367c61876997f1",
+        "name": "miMATIC",
+        "symbol": "miMATIC",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.998001657201126478203245877666547"
+          }
+        ]
+      },
+      "volumeUSD": "8131092.090484928727360642730022541"
+    },
+    {
+      "id": "0x7ba331a8b360f4c31e6014abdd6852f92fb21557",
+      "reserve0": "256.637324629300654577",
+      "reserve1": "0.414814159940525056",
+      "token0": {
+        "decimals": "18",
+        "id": "0x61bdd9c7d4df4bf47a4508c0c8245505f2af5b7b",
+        "name": "Axie Infinity Shard (PoS)",
+        "symbol": "AXS",
+        "tokenDayData": [
+          {
+            "priceUSD": "5.363240549163187349187792624990579"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "18",
+        "id": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "tokenDayData": [
+          {
+            "priceUSD": "3293.802176029499260419916565128127"
+          }
+        ]
+      },
+      "volumeUSD": "8019713.273170754061429701020341634"
+    },
+    {
+      "id": "0x9d2145d093f8e63a34d2d08c8c015c57070fa3c8",
+      "reserve0": "1271794894695.996347861",
+      "reserve1": "0.195411",
+      "token0": {
+        "decimals": "9",
+        "id": "0x3d437144d86117603c7709f284dd0b41d59a6130",
+        "name": "PTS",
+        "symbol": "PTS",
+        "tokenDayData": [
+          {
+            "priceUSD": "0"
+          }
+        ]
+      },
+      "token1": {
+        "decimals": "6",
+        "id": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+        "name": "(PoS) Tether USD",
+        "symbol": "USDT",
+        "tokenDayData": [
+          {
+            "priceUSD": "0.9995734864418868727691390430524514"
+          }
+        ]
+      },
+      "volumeUSD": "8019235.631617244995207023522958425"
+    }
+  ]
+}
